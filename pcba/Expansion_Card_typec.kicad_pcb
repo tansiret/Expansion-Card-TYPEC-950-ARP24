@@ -905,11 +905,11 @@
 	(footprint "easytypec:TYPEC-SMD_TYPEC-950-ARP24"
 		(layer "F.Cu")
 		(uuid "db6d65b0-c05b-4ca7-af63-8bfa039f58f5")
-		(at 145.23 120.8 180)
+		(at 145.23 121.93 180)
 		(property "Reference" "P1"
 			(at -0.084817 -1.5875 0)
 			(layer "F.SilkS")
-			(uuid "99271c85-bc96-41b5-9603-3d4c67451500")
+			(uuid "1082cfce-3a3b-4c28-9812-ac31a1fb0645")
 			(effects
 				(font
 					(size 1 1)
@@ -920,7 +920,7 @@
 		(property "Value" "USB_C_Plug_USB2.0"
 			(at 0 12.832 0)
 			(layer "F.Fab")
-			(uuid "e5dd33df-b939-423f-92af-a6d5fe5a7854")
+			(uuid "ab3a1395-8c0c-47cb-a54a-59c3d47f3b8a")
 			(effects
 				(font
 					(size 1 1)
@@ -932,7 +932,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3ef1ac22-5921-41be-9b86-4289d05d52e1")
+			(uuid "5b00b9f5-9df6-4820-a705-a27b7c5b96e9")
 			(effects
 				(font
 					(size 1 1)
@@ -944,7 +944,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fb78a04b-a3de-4979-9b7e-61030fbe9efa")
+			(uuid "bb6c6ad4-41ba-43e3-a899-60b4db6181d5")
 			(effects
 				(font
 					(size 1 1)
@@ -1973,8 +1973,8 @@
 		(uuid "73f2d8b4-c005-4f0a-8d78-afedc5f0b18f")
 	)
 	(gr_line
-		(start 140.63 121.462)
-		(end 139.23 121.462)
+		(start 140.63 122.592)
+		(end 139.23 122.592)
 		(stroke
 			(width 0.254)
 			(type solid)
@@ -1984,7 +1984,7 @@
 	)
 	(gr_line
 		(start 151.23 118.043566)
-		(end 151.23 121.416)
+		(end 151.23 122.546)
 		(stroke
 			(width 0.254)
 			(type solid)
@@ -2043,8 +2043,8 @@
 		(uuid "da6ee7ef-c214-4944-934b-bacf4bab8142")
 	)
 	(gr_line
-		(start 149.83 121.416)
-		(end 151.23 121.416)
+		(start 149.83 122.546)
+		(end 151.23 122.546)
 		(stroke
 			(width 0.254)
 			(type solid)
@@ -2054,7 +2054,7 @@
 	)
 	(gr_line
 		(start 139.23 118.043566)
-		(end 139.23 121.462)
+		(end 139.23 122.592)
 		(stroke
 			(width 0.254)
 			(type solid)
